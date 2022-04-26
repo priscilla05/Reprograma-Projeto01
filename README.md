@@ -11,15 +11,25 @@ As Ferramentas foram: JS, Node.js, npm, e readline-sync
 ## Arquitetura
  📁 projeto-de-livros
    |- 📁 controllers
-   |     |- 📄 buscarLivros.js
+
+   ||- 📄 buscarLivros.js
+
    |     |- 📄 listarRecomendados.js
+
    |     |- 📄 listarLivrosNaoLidos.js
+
    |     |- 📄 listarLivrosOrdenados.js
+
    |- 📁 node_modules
+
    |- 📄 app.js
+
    |- 📄 database.js
+
    |- 📄 .gitignore
+
    |- 📄 package.json  
+   
    |- 📄 package-lock.json
  
    ## Requisitos:
